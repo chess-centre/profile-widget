@@ -1,2 +1,3 @@
-# profile-widget
-A reusable chess player profile widget
+# Player Profile Widget
+
+A `React` component for displaying chess player profile information.
